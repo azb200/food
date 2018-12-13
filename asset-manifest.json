@@ -9,8 +9,8 @@
   "runtime~main.js.map": "/food/static/js/runtime~main.67fe6891.js.map",
   "static/media/font-awesome.min.css": "/food/static/media/fontawesome-webfont.fee66e71.woff",
   "static/media/App.css": "/food/static/media/banner.c96165c2.png",
-  "static/css/1.c6ceb85a.chunk.css.map": "/food/static/css/1.c6ceb85a.chunk.css.map",
   "static/css/main.1c0a14c6.chunk.css.map": "/food/static/css/main.1c0a14c6.chunk.css.map",
+  "static/css/1.c6ceb85a.chunk.css.map": "/food/static/css/1.c6ceb85a.chunk.css.map",
   "index.html": "/food/index.html",
   "precache-manifest.7c76b12a40e230d94119c33ac9e66281.js": "/food/precache-manifest.7c76b12a40e230d94119c33ac9e66281.js",
   "service-worker.js": "/food/service-worker.js"
