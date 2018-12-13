@@ -9,9 +9,9 @@
   "runtime~main.js.map": "/food/static/js/runtime~main.67fe6891.js.map",
   "static/media/font-awesome.min.css": "/food/static/media/fontawesome-webfont.fee66e71.woff",
   "static/media/App.css": "/food/static/media/banner.c96165c2.png",
-  "static/css/main.1c0a14c6.chunk.css.map": "/food/static/css/main.1c0a14c6.chunk.css.map",
   "static/css/1.c6ceb85a.chunk.css.map": "/food/static/css/1.c6ceb85a.chunk.css.map",
+  "static/css/main.1c0a14c6.chunk.css.map": "/food/static/css/main.1c0a14c6.chunk.css.map",
   "index.html": "/food/index.html",
-  "precache-manifest.d13d7cf13643f795689a4da545857ffa.js": "/food/precache-manifest.d13d7cf13643f795689a4da545857ffa.js",
+  "precache-manifest.37f2de2dfc40e6cf2afde87db402d0a9.js": "/food/precache-manifest.37f2de2dfc40e6cf2afde87db402d0a9.js",
   "service-worker.js": "/food/service-worker.js"
 }
