@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/food/static/media/fontawesome-webfont.fee66e71.woff"
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/food/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
     "revision": "f0b76f7dd69237ce00aa",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/food/static/js/runtime~main.67fe6891.js"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/food/static/media/fontawesome-webfont.af7ae505.woff2"
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/food/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "f0b76f7dd69237ce00aa",
